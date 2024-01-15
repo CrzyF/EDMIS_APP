@@ -1,6 +1,6 @@
 # EDMIS
 
-EdMis (Emergency Management and Information System) is a groundbreaking mobile application designed to streamline communication and coordination among various government emergency units. Serving as a comprehensive one-stop platform, EdMis empowers users to report emergencies and access vital information in real-time.
+EdMis (Emergency Disaster Management and Information System) is a groundbreaking mobile application designed to streamline communication and coordination among various government emergency units. Serving as a comprehensive one-stop platform, EdMis empowers users to report emergencies and access vital information in real-time.
 ![app screenshot](https://github.com/CrzyF/EDMIS_APP/blob/main/assets/Screenshot.png)
 
 ## Installation
