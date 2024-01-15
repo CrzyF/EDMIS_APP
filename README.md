@@ -5,8 +5,6 @@ EdMis (Emergency Management and Information System) is a groundbreaking mobile a
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 git clone "https://github.com/CrzyF/EDMIS_APP.git"
 ```
@@ -15,7 +13,6 @@ git clone "https://github.com/CrzyF/EDMIS_APP.git"
 
 ```React Native
 npx expo start
-
 ```
 
 ## Contributing
