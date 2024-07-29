@@ -17,7 +17,7 @@
     "ios": {
       "supportsTablet": true,
       "runtimeVersion": "1.0.0",
-      "bundleIdentifier": "io.expo.client",
+      "bundleIdentifier": "com.domainname.edmis",
       "infoPlist": {
         "NSCameraUsageDescription": "$(PRODUCT_NAME) needs access to your Camera.",
         "NSLocationAlwaysAndWhenInUseUsageDescription": "We need access to your location to verify product location.",
